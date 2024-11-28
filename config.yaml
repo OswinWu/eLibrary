@@ -1,0 +1,6 @@
+db:
+    host: mongodb
+    port: 27017
+    user: admin
+    password: VRuAd2Nvmp4ELHh5
+    database: elibrary
